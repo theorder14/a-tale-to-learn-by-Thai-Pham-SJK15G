@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 It's up to the warrior Niclas and the mage Hannes to save the world.
 
 Niclas sidekick besides Hannes is the very air he is breathing, but he asthma so
 sometimes his sidekick let him down. Niclas also has very weak legs, chicken-ish legs you know,
 kinda like them you see on people who doesnt have a "leg-gym-day" on their weekly schedule.
+=======
+It's up to the warrior Niclas and the mage Hannes to save the world. They pretend to be great friends, but in secret they despise
+each other.
+>>>>>>> 4681c7cb36419b8b7e8799fc4d197aadb58228a7

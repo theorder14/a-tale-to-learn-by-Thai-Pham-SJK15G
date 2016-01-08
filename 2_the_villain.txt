@@ -1,3 +1,13 @@
+<<<<<<< HEAD
 The villain of this story is a big GIANT multithreaded synchronized demon-king named Xedric, he is gray-toned and
 a very un-eviled king. Xedric knows the computer languages Java, Javascript, css, html, MySQL, Git, GitHub and much much more.
 His favourite hobby is to hack peoples computer through different websites, which is polite in some matter.
+=======
+The villain of this story is a big GIANT multithreaded synchronized Demon King named Xedric.
+Xedric knows the computer languages Java, Javascript, css, html, MySQL, Git, GitHub and much much more.
+His favourite hobby is to hack peoples computer through different websites.
+
+Xedric has a pet, a dust bunny named Kony that he cherishes dearly. Kony kidnaps danish children and keeps them in his basement. 
+The children barely survives on the corn and kidney beans that Kony feeds them. Xedric has had suspicions of Konys behaviour, but
+looks the other way. No hacker code in the world kan fix Kony's broken lifestyle.
+>>>>>>> 4681c7cb36419b8b7e8799fc4d197aadb58228a7
