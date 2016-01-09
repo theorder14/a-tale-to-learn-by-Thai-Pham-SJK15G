@@ -1,2 +1,3 @@
 They had to wander through harsh environments and face dangerous trials before reaching their nemesis.
 They had found a hidden IP-adress in the TROjan virus that had led them to the mystic programmer named Xedric....
+After hours of troubleshooting and updating, they reached installation phase, where Xedric was waiting with a troublesome installation wizard.
